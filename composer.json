@@ -1,0 +1,9 @@
+{
+  "name": "Kuxin/Core",
+  "description": "kuxin framework core",
+  "homepage": "http://www.kxcms.com/",
+  "type": "project",
+  "require": {
+    "php": ">=7.1.0"
+  }
+}
