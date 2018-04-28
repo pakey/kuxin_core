@@ -3,7 +3,19 @@
   "description": "kuxin framework core",
   "homepage": "http://www.kxcms.com/",
   "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "pakey",
+      "email": "pakey@qq.com"
+    }
+  ],
   "require": {
     "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kuxin\\": "src/"
+    }
   }
 }
